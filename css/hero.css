@@ -1,0 +1,17 @@
+.hero__wrapper {
+  background: linear-gradient(to right, #bf953f, #fcf6ba, #b38728, #fbf5b7, #aa771c);
+}
+.hero {
+  padding: 10rem 0 5rem;
+}
+.hero .title span {
+  font-family: inherit;
+  color: var(--second-brand-color);
+}
+.hero .text {
+  max-width:70rem;
+  margin-bottom: 4rem;
+}
+@media screen and (min-width: 1024px) {
+  
+}
